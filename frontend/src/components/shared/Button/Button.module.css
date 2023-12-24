@@ -1,0 +1,24 @@
+.buttons {
+  background: rgb(18, 104, 170);
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 50px;
+  cursor: pointer;
+
+  transition: all 0.3s ease-in-out;
+}
+
+.buttons:hover {
+  background: #0077ff;
+}
+
+.arror {
+  margin-left: 10px;
+}

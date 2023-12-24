@@ -1,0 +1,32 @@
+.cardWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+.text {
+  font-size: 22px;
+  line-height: 1.6;
+  color: #c4c5c5;
+  margin-bottom: 20px;
+}
+
+.signinwrapper {
+  margin-top: 20px;
+}
+
+.signinwrapper span {
+  color: rgb(18, 104, 170);
+}
+.signinwrapper a {
+  color: rgba(243, 216, 15, 0.922);
+  margin-left: 5px;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  font-weight: bold;
+}
+
+.signinwrapper a:hover {
+  color: #c4c5c5;
+}
